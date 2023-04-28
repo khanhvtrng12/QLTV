@@ -1,5 +1,5 @@
 Project "Quản Lý Nhà Sách"
-
+Sử dụng: Java Swing
 Nhóm 4:
 	+Vũ Trường Khanh
 	+Nguyễn Huỳnh Phát
